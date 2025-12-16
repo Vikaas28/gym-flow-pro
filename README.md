@@ -1,73 +1,141 @@
-# Welcome to your Lovable project
+# 🏋️‍♂️ Gym Flow Pro
 
-## Project info
+A modern **Gym Management System** built to simplify member management, attendance tracking, and daily gym operations.
+This project focuses on clean UI, smooth user experience, and scalability.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🚀 Live Demo
 
-There are several ways of editing your application.
+🔗 **Live URL**: *Coming Soon (Lovable Deploy)*
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 📌 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+* 🔐 User Authentication (Login / Signup)
+* 👤 Member Management
+* 📊 Attendance Tracking
+* 🧾 Dashboard with key gym insights
+* 🎨 Modern UI using Tailwind & shadcn-ui
+* ⚡ Fast performance with Vite
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* **Frontend**: React + TypeScript
+* **Build Tool**: Vite
+* **Styling**: Tailwind CSS
+* **UI Components**: shadcn-ui
+* **Version Control**: Git & GitHub
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📂 Project Structure
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```text
+gym-flow-pro/
+├── src/              # Application source code
+├── public/           # Static assets
+├── package.json      # Project dependencies
+├── vite.config.ts    # Vite configuration
+├── README.md         # Project documentation
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## ⚙️ Installation & Setup
 
-**Use GitHub Codespaces**
+Follow these steps to run the project locally:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+```bash
+# Clone the repository
+git clone https://github.com/Vikaas28/gym-flow-pro.git
 
-## What technologies are used for this project?
+# Navigate to the project directory
+cd gym-flow-pro
 
-This project is built with:
+# Install dependencies
+npm install
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+if you prefer bun then
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+bun install
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
+# Start the development server
+npm run dev
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+or
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+bun run dev (recommended)
+```
+
+The app will be available at:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🌐 Deployment
+
+### Deploy using Lovable
+
+1. Open your project on **Lovable**
+2. Click **Share → Publish**
+3. Copy the deployed URL
+4. Update the **Live Demo** section in this README
+
+---
+
+## 📸 Screenshots
+
+<img width="2539" height="1223" alt="image" src="https://github.com/user-attachments/assets/82a4f2c7-6aac-427a-82ba-41821d29202a" />
+
+
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes
+
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. Push to the branch
+
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Vikas Sahu**
+🔗 GitHub: [https://github.com/Vikaas28](https://github.com/Vikaas28)
+
+---
+
+⭐ If you like this project, don’t forget to **star the repository**!
