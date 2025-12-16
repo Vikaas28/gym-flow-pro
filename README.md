@@ -7,7 +7,7 @@ This project focuses on clean UI, smooth user experience, and scalability.
 
 ## 🚀 Live Demo
 
-🔗 **Live URL**: *Coming Soon (Lovable Deploy)*
+🔗 **Live URL**: *Coming Soon (vercel depoly )*
 
 ---
 
